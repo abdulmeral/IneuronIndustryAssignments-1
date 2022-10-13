@@ -147,3 +147,49 @@
 
 * Host GitHub Pages using settings.
 ![Pic1](./screenshots/2companystructure6.png)
+
+<hr>
+
+### Task-3
+* Created a issue and assigned to one of collaborator.
+
+![Pic1](./screenshots/3assign.png)
+
+* A collaborator fixed the issue and closed it.
+
+![Pic1](./screenshots/3assign.png)
+
+* Collaborator rising a pull request.
+
+![Pic1](./screenshots/3pull.png)
+
+![Pic1](./screenshots/3pull2.png)
+
+* Merge Pull Requests.
+
+![Pic1](./screenshots/3pull3.png)
+
+* Updated Repo for Other Collaborator.
+
+![Pic1](./screenshots/3pull4.png)
+
+* Rejected a issue.
+
+![Pic1](./screenshots/3close.png)
+
+* Add a Dependabot alerts
+
+![Pic1](./screenshots/3depend.png)
+
+* Stash changes
+
+![Pic1](./screenshots/3stash.png)
+
+* Release my package
+
+![Pic1](./screenshots/3release.png)
+![Pic1](./screenshots/3release2.png)
+
+* Setup a Projects Board
+
+![Pic1](./screenshots/3project.png)
